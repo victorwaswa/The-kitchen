@@ -3,11 +3,55 @@
     margin-top: -30%;
 }
 .row1{
-    margin-top: 12px;
+    margin-top: 13.5px;
 }
 ul{
     list-style-type: none;
 }
 .text1{
-    
+    padding:3em; 
+    background-color: #f1f1f1; 
+}
+.text1:hover{
+    background-color: #f15a29;
+    color:white;
+
+}
+
+.text2{
+    padding:3em;
+    background-color: #f1f1f1; 
+}
+.text2:hover{
+    background-color:#f15a29;
+    color: wheat;
+
+}
+.imagetext{
+    margin-top: -30%;
+    color:wheat;
+    margin-left:20%;
+    font-size: 20px;
+    font-family:serif;
+}
+.row2{
+    margin-top: 3em;
+}
+#fastfood{
+    border-style: solid;
+    border-width: 20px;
+    border-color: white;
+    box-shadow: 0 0 10px 10px #f2f2f2;
+    margin-bottom:5em;
+}
+.row3{
+margin-top:3em;
+}
+.food2{
+    border-style: solid;
+    border-width: 20px;
+    border-color: white;
+    box-shadow: 0 0 10px 10px #f2f2f2;
+    margin-bottom:20em;
+  
 }
