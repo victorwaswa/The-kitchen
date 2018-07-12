@@ -1,4 +1,7 @@
-.landing{
-    margin-left:40%;
-    margin-top : -30%; 
+body{
+    background-image: url("images/landing.jpg");
+}
+.landing{ 
+    position: relative;
+    top: -400px;
 }
